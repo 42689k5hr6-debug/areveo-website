@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 180" role="img" aria-labelledby="title desc">
+<title id="title">AREVEO Objektservice</title><desc id="desc">AREVEO Wortmarke in Dunkelblau mit grünen Akzenten</desc>
+<rect width="920" height="180" fill="white"/>
+<g fill="none" stroke="#0B1B2E" stroke-width="10" stroke-linecap="square" stroke-linejoin="miter">
+<path d="M52 112 L87 38 L122 112"/><path d="M194 112 V38 H241 C272 38 285 50 285 72 C285 92 270 103 243 103 H194 M240 103 L286 112"/><path d="M357 38 H426 M357 75 H413 M357 112 H426"/><path d="M492 38 L528 112 L564 38"/><path d="M634 38 H703 M634 75 H690 M634 112 H703"/><ellipse cx="807" cy="75" rx="44" ry="38"/></g>
+<g stroke="#9AB625" stroke-width="8" stroke-linecap="square"><path d="M75 101 H99"/><path d="M379 75 H405"/><path d="M656 75 H682"/></g>
+<text x="460" y="156" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="8" fill="#6C7885">OBJEKTSERVICE</text>
+</svg>

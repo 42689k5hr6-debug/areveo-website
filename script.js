@@ -1,0 +1,1 @@
+document.getElementById('year')?.append(new Date().getFullYear());const b=document.querySelector('.mobile-toggle'),m=document.querySelector('.menu');b?.addEventListener('click',()=>m.classList.toggle('open'));m?.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>m.classList.remove('open')));
